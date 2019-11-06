@@ -11,6 +11,7 @@ import java.util.List;
 
 public class MailListReader {
 
+    
     public static List<Mail> read(String fileName) {
         List<Mail> list = new ArrayList<>();
         try{
